@@ -1,0 +1,37 @@
+title{
+    margin: 20px;
+    padding: 10px;
+}
+body{
+    background-color: #C9D8C5;
+}
+.portfolio{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F3EFE6;
+}
+/* For anchor links (eg. <a href="#about">) ensure the section isn't hidden behind the bar */
+.lead {
+
+    background-color: #F3EFE6;
+    padding: 10px;
+}
+#selfie {
+    border-radius: 50%;
+    border: 4px solid #555;
+}
+.Logo {
+    background-color: #F3EFE6;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#about {
+    background-image: url('./assets/background1.jpg');
+    background-size: cover;
+}
+footer{
+    background-color: #F3EFE6;
+    padding: 20px;
+}
